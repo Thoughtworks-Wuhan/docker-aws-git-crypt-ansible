@@ -1,4 +1,4 @@
-FROM newbieguide/docker_ansible
+FROM thoughtworkswuhan/docker_ansible
 MAINTAINER Baiyuan Wang<bywang.thoughtworks.com>
 
 ENV VERSION 0.5.0-2
